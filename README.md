@@ -1,6 +1,6 @@
 ### Bem-vindo me chamo Elias Arruda, Sinta-se a vontade para conhecer todos os meus projetos 🙂
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukesp&show_icons=true&theme=radical)
 
 # Skills :
 
