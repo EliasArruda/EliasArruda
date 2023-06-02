@@ -49,8 +49,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-<!-- ### 👨‍🏫 Portifolio
-<a href='https://portifolio-EliasArruda.vercel.app/' target='blank'>Visitar</a> -->
+### 👨‍🏫 Portifolio
+<a href='https://portifolio-elias-arruda.netlify.app/' target='blank'>Visitar</a>
 
 
   <div align="center">
