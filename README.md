@@ -7,8 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasArruda&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<!-- ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EliasArruda&theme=gotham) -->
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=EliasArruda&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -55,12 +53,12 @@
 ### 👨‍🏫 Portifolio
 <a href='https://portifolio-elias-arruda.netlify.app/' target='blank'>Visitar</a>
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64c7e46c24d8db1c8215a015?variant=dark)](https://roadmap.sh)
 
-  <div align="center">
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{EliasArruda}/count.svg" /></p> 
 <br></div>
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=footer"/>*********************************************************************************************************
