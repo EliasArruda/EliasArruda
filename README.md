@@ -1,35 +1,85 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=header&fontSize=50&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=180&section=header&text=Elias%20Arruda&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Systems%20Enthusiast&descAlignY=58&descSize=18"/>
 
-### 👨‍💻 Fullstack Developer
-Focused on development with **.NET 8** and **Vue.js 3**. **Arch Linux** and **Neovim** user (configured in Lua).
+<div align="center">
 
-<p align="left">
-<a href="https://www.linkedin.com/in/elias-arruda" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:eliaspessoal06@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  Building robust systems with Go & Rust · Living in the terminal │
+│  Arch Linux  ·  Neovim  ·  PostgreSQL  ·  No compromises        │
+└─────────────────────────────────────────────────────────────────┘
+```
 
----
+<a href="https://www.linkedin.com/in/elias-arruda" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:eliaspessoal06@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🛠️ Tech Stack
+</div>
 
-#### 🖥️ Backend
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D70?style=for-the-badge&logo=lua&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## 🧠 About Me
+
+- 🦀 Systems developer focused on **Go** and **Rust** for backend & tooling
+- 🌐 Fullstack experience with **Vue.js 3** + **TypeScript** on the frontend
+- 🐘 **PostgreSQL** as the database of choice — always
+- 🐧 Daily driver: **Arch Linux** with **Neovim** (configured in Lua)
+- ⚡ Obsessed with performance, reliability, and clean abstractions
+
+
+## 🛠️ Tech Stack
+
+### ⚙️ Backend & Systems
+
+<div>
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-#### 🎨 Frontend
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+</div>
 
-#### ⚙️ Tools
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+### 🎨 Frontend
+
+<div>
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+</div>
+
+### 🧰 Environment & Tools
+
+<div>
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-black?style=for-the-badge&logo=kitty&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</div>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=elias-arruda&theme=tokyonight&hide_border=true&background=0d1117&stroke=00FA9A&ring=00FA9A&fire=00FA9A&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00FA9A&sideLabels=00FA9A&dates=888888" />
+</div>
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FA9A&height=120&section=footer"/>
+<div align="center">
+
+*"First, solve the problem. Then, write the code."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer"/>
