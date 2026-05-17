@@ -4,7 +4,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  Building robust systems with Go & Rust · Living in the terminal │
+│  Building robust systems with Go · Living in the terminal       │
 │  Arch Linux  ·  Neovim  ·  PostgreSQL  ·  No compromises        │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-- 🦀 Systems developer focused on **Go** and **Rust** for backend & tooling
+- 🦀 Systems developer focused on **Go** for backend & tooling
 - 🌐 Fullstack experience with **Vue.js 3** + **TypeScript** on the frontend
 - 🐘 **PostgreSQL** as the database of choice — always
 - 🐧 Daily driver: **Arch Linux** with **Neovim** (configured in Lua)
@@ -35,7 +35,6 @@
 <div>
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
