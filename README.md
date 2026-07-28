@@ -9,15 +9,17 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
+<a href="https://eliasarruda.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/%F0%9F%91%A4%20Portfolio-0D1117?style=for-the-badge"/>
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/elias-arruda" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a>&nbsp;&nbsp;
 <a href="mailto:eliaspessoal06@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
-
 
 ## 🧠 About Me
 
@@ -26,7 +28,6 @@
 - 🐘 **PostgreSQL** as the database of choice — always
 - 🐧 Daily driver: **Arch Linux** with **Neovim** (configured in Lua)
 - ⚡ Obsessed with performance, reliability, and clean abstractions
-
 
 ## 🛠️ Tech Stack
 
@@ -65,7 +66,6 @@
 ![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
-
 
 ## 📊 GitHub Stats
 
