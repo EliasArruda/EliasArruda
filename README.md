@@ -126,15 +126,9 @@ C# / .NET
 
 </div>
 
----
-
 <div align="center">
 
 *"First, solve the problem. Then, write the code."*
-
-<br>
-
-**C# · .NET · Blazor · ASP.NET Core · PostgreSQL · Go**
 
 </div>
 
