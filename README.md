@@ -34,7 +34,6 @@
 
 I'm especially interested in understanding how software works beyond the interface — from the backend and database to networking, performance and deployment.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -95,7 +94,6 @@ I'm especially interested in understanding how software works beyond the interfa
 
 </div>
 
----
 
 ## 🎯 Currently Focused On
 
@@ -119,8 +117,6 @@ C# / .NET
     ├── Architecture
     └── Networking
 ```
-
----
 
 ## 📊 GitHub Stats
 
